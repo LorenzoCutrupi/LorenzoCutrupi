@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A passionate student of Artificial Intelligence</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=+Graduated+in+Computer+Science+and+Engineering;Machine+Learning+Engineering+Student;Passionate+in+AI;Basketball+Player+and+Coach;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Scientist+and+Engineer;Machine+Learning+Engineering+Student;Passionate+in+AI;Basketball+Player+and+Coach;Always+learning+new+things"></a>
 </p>
 
 - 🌱 I’m currently learning **Data Mining and Neural Networks**
