@@ -31,7 +31,10 @@
 <a href="https://fb.com/https://www.facebook.com/lollo.cutrupi.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lollo.cutrupi.7/" height="30" width="40" /></a>
 </p>
 
-<p style="margin-bottom:3cm;"></p>
+<pre>
+
+
+</pre>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 <br>
