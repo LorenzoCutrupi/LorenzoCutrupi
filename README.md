@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;A passionate student of Artificial Intelligence;Love+to+learn+new+stuffs..<3"></a>
+</p>
 <h3 align="center">A passionate student of Artificial Intelligence</h3>
 
 - 🌱 I’m currently learning **Data Mining and Neural Networks**
