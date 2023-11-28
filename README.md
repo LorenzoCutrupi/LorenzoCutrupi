@@ -7,7 +7,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🌱 I’m currently learning **Data Mining and Neural Networks**
+- 🌱 I’m currently learning **Natural Language Processing and RAGs**
 
 - 👯 I’m looking to collaborate on [Drinkstagram](https://github.com/LorenzoCutrupi/DrinkstagramDemo)
 
