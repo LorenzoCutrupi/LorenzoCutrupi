@@ -5,8 +5,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 - 🌱 I’m currently learning **DreamBooth/LoRa and RAGs**
 
 - 👯 I’m looking to collaborate on [Drinkstagram](https://github.com/LorenzoCutrupi/DrinkstagramDemo)
@@ -14,12 +12,6 @@
 - 📫 How to reach me **lorenzo.cutrupi@mail.polimi.it**
 
 - ⚡ Fun fact **Basketball player and coach**
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
